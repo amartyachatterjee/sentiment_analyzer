@@ -17,7 +17,9 @@ setup(
         'build',
         'unidecode',
         'setuptools',
-        'textblob'
+        'textblob',
+        'text_normalizer @ git+https://github.com/amartyachatterjee/text_normalizer.git',
     ]
 )
+
 

@@ -4,7 +4,7 @@ setup(
     name='sentiment_analyzer',
     version='0.1.0',
     description='Performs basic sentiment analysis (Vader, TextBlob, Blobber and an ensemble) of input text',
-    # long_description=open('README.md').read(),
+    long_description=open('README.md').read(),
     author='Amartya Chatterjee',
     author_email='amartya.chatterjee@gmail.com',
     license='MIT',
@@ -20,3 +20,4 @@ setup(
         'textblob'
     ]
 )
+
